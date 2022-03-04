@@ -16,4 +16,4 @@ Brett, Louis, Hannah
 None
 
 # Demo
-![]()
+![](./Assets/weather.gif)
