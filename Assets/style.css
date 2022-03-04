@@ -1,37 +1,21 @@
-.hidden{
-    display: none;
-}
 
-.icon-container{
-    height: 2rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.card-header{
+  background-color: rgb(57, 99, 214);
 }
-
-.five-day-cards{
-    padding-top: .5rem;
+h1 {
+  background-color: rgb(57, 99, 214);
+  text-align: center;
 }
-
-.forecast-header{
-    padding-top: 1rem;
-    text-align: center;
+ul{
+  list-style: none;
 }
-
-
-card {
-    padding: .5rem;
-    border: 1px solid black;
-    margin: .5rem;
-    border-radius: 5px;
-    background-color: rgb(35, 35, 221);
-    color: white;
+.container{
+  display:inline-flex;
+  height: 80%;
+  width:80%;
+  background-color: rgb(57, 99, 214);
+  padding: 10px;
 }
-#saved-searches{
-    display: flex;
-    flex-direction: column;
-}
-
-.saved-button{
-    margin: 5px;
+footer{
+  text-align: center;
 }
